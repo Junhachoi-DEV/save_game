@@ -17,4 +17,4 @@ it's a tutorial the game save as json and unity
   
   
 #### 2.  easy_save asset
-- easy save 사용법을 
+- easy save 사용법을 익힘
