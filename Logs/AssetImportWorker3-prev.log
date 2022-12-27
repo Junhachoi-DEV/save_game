@@ -2,7 +2,6 @@ Using pre-set license
 Built from '2022.1/staging' branch; Version is '2022.1.23f1 (9636b062134a) revision 9844400'; Using compiler version '192829333'; Build Type 'Release'
 OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'ko' Physical Memory: 16293 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
-
 COMMAND LINE ARGUMENTS:
 E:\unity\2022.1.23f1\Editor\Unity.exe
 -adb2
