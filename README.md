@@ -15,6 +15,8 @@ it's a tutorial the game save as json and unity
 - json 을 이용한 저장.. 및 string을 split로 나누는 팁
 - 플레이 시간과 장소 등등 저장  
   
+#### 2. playerprefs
+- playerprefs의 사용법 및 저장 위치 등을 익힘
   
-#### 2.  easy_save asset
+#### 3. easy_save asset
 - easy save 사용법을 익힘
