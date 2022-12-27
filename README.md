@@ -7,6 +7,8 @@ it's a tutorial the game save as json and unity
 ### 블로그 참고 및 사이트 참고
 - https://blog.naver.com/PostView.naver?blogId=cra2yboy&logNo=222262531527
 - https://docs.moodkie.com/easy-save-3/getting-started/#saving-and-loading-gameobjects-and-prefabs
+- https://you-rang.tistory.com/139
+
 ## 공부 내용  
   
 #### 1. json  
