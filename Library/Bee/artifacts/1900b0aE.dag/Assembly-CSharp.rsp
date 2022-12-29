@@ -366,6 +366,7 @@
 "Assets/scripts/easy_save_test.cs"
 "Assets/scripts/game.cs"
 "Assets/scripts/jason_contrller.cs"
+"Assets/scripts/playerprefs_test.cs"
 "Assets/scripts/player_move.cs"
 "Assets/scripts/select.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
